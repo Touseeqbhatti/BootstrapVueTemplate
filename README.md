@@ -153,9 +153,9 @@ Basically, feel free to use and re-use any way you want.
 <!-- CONTACT -->
 ## Contact
 
-Ramon Crisante - ramon.crisante@yahoo.com
+Touseeq Zulfiqar - touseeqzulfiqar@gmail.com
 
-Project Link: [https://github.com/ramoncrisante/laravel-vue-dashboard](https://github.com/ramoncrisante/laravel-vue-dashboard)
+
 
 
 

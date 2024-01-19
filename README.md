@@ -73,7 +73,7 @@ The code is structured in such a way to make it easy to modify and add new pages
     git clone https://github.com/ramoncrisante/laravel-vue-dashboard.git
 
     # Enter the project directory
-    cd laravel-vue-dashboard
+    cd BootstrapVueTemplate
 
     # Copy env file and add your own database and mail credentials
     cp .env.example .env
